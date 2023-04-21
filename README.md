@@ -1,4 +1,8 @@
-# API Routes Example with CORS
+# POC API Routes Example with CORS
+
+Trying to get Api route to have an open api endpoint for public access
+
+---
 
 Next.js ships with [API routes](https://nextjs.org/docs/api-routes/introduction) which provides an easy solution to build your own `API`.
 
