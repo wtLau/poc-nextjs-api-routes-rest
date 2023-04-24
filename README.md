@@ -3,6 +3,7 @@
 Trying to get Api route to have an open api endpoint for public access
 
 Link: https://poc-nextjs-api-routes-rest.vercel.app/api/cors
+
 ---
 
 Next.js ships with [API routes](https://nextjs.org/docs/api-routes/introduction) which provides an easy solution to build your own `API`.
